@@ -18,7 +18,7 @@ h1 {
 .calc {
     border: 3px solid black;
     width: 305px;
-    height: 282px;
+    height: 291px;
     border-radius: 10px;
     position: absolute;
     margin: 150px;
@@ -27,7 +27,7 @@ h1 {
 
 #screen {
     height: 80px;
-    border: 2px solid #6262e6;
+    border: 2px solid #8484e8;
     border-radius: 5px;
     margin: 3px;
     width: 294px;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .btn {
-    border: 1px solid #e83e3e;
+    border: 2px solid #e83e3e;
     color: lightblue;
 }
 
