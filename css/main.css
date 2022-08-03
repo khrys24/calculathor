@@ -4,13 +4,14 @@
 
 body {
     background-image: url(https://images5.alphacoders.com/123/1230384.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
 h1 {
     position: absolute;
-    margin-left: 140px;
-    margin-top: 90px;
+    margin-left: 9%;
+    margin-top: 5%;
     color: #fdfaff;
     font-family: serif;
 }
@@ -21,17 +22,19 @@ h1 {
     height: 291px;
     border-radius: 10px;
     position: absolute;
-    margin: 150px;
+    margin: 10%;
     box-shadow: 5px 10px black;
 }
 
 #screen {
     height: 80px;
-    border: 2px solid #8484e8;
+    border: 5px groove #8484e8;
     border-radius: 5px;
     margin: 3px;
     width: 294px;
     color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .btn {
