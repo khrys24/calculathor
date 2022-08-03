@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://images5.alphacoders.com/123/1230384.jpg);
+    background-size: cover;
+}
+
+h1 {
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 90px;
+    color: #fdfaff;
+    font-family: serif;
+}
+
+.calc {
+    border: 3px solid black;
+    width: 305px;
+    height: 282px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 150px;
+    box-shadow: 5px 10px black;
+}
+
+#screen {
+    height: 80px;
+    border: 2px solid #6262e6;
+    border-radius: 5px;
+    margin: 3px;
+    width: 294px;
+    color: lightblue;
+}
+
+.btn {
+    border: 1px solid #e83e3e;
+    color: lightblue;
+}
+
